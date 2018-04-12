@@ -1,0 +1,5 @@
+/Users/afroditiflora/Projects/ShapesAndColors/ShapesAndColors/obj/x86/Debug/ShapesAndColors.csproj.CoreCompileInputs.cache
+/Users/afroditiflora/Projects/ShapesAndColors/ShapesAndColors/bin/Debug/ShapesAndColors.exe
+/Users/afroditiflora/Projects/ShapesAndColors/ShapesAndColors/bin/Debug/ShapesAndColors.pdb
+/Users/afroditiflora/Projects/ShapesAndColors/ShapesAndColors/obj/x86/Debug/ShapesAndColors.exe
+/Users/afroditiflora/Projects/ShapesAndColors/ShapesAndColors/obj/x86/Debug/ShapesAndColors.pdb
